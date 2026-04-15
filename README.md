@@ -41,3 +41,18 @@ My main contributions in this project included:
 - **DAX** — calculated fields, measures, and dashboard logic
 - **Excel** — source data formatting and review
 - **GitHub** — project documentation and portfolio presentation
+
+---
+
+## Project Highlights
+- Identified that approximately **60% of first-time customers were at risk of churn**, showing a major early retention challenge.
+- Found that **first-order value was similar across segments**, but long-term value differed sharply based on repeat behavior.
+- Showed that the most critical retention window was **30–60 days after the first purchase**, making this the best time for targeted follow-up.
+- Found that **coupon usage was relatively limited**, suggesting discounts were not the primary driver of acquisition or retention.
+- Highlighted that **organic acquisition channels contributed the largest share of repeat customers**, while also revealing the need for improved attribution tracking.
+- Built a dashboard that connected segmentation, reorder timing, channel performance, geography, and customer value into one business-facing view.
+
+---
+
+## Privacy / Client Note
+To protect confidentiality, any client-sensitive materials in this repository may be anonymized, down-sampled, transformed, or replaced with sample/synthetic data. Business context has been presented in a portfolio-friendly format while preserving the analytical structure, methods, and insights of the original project.
